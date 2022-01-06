@@ -35,16 +35,16 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #39699B;
 }
 
 a:hover {
-  color: black;
+  color: #B55631;
 }
 
-a:visited {
-  color: #a0a;
-}
+
+
+
 
 table {
   font-size: inherit;
@@ -87,18 +87,18 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #39699B;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #39699B;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #B55631;
   }
 
   .site .title a.extra {
@@ -128,9 +128,7 @@ ul.posts {
       margin-right: 3em;
     }
 
-      .site .footer .contact a {
-        color: #8085C1;
-      }
+   
 
     .site .footer .rss {
       margin-top: 1.1em;
